@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class java-training{
+public static void main(String []args){
+
+    System.out.println("treinando métodos , e laços de repetição ");
+
+    System.out.println("sequencia de 1 a 10");
+
+    for (int i=0;i<10;i++){
+
+        System.out.println(i);
+    }
+
+}
+}
