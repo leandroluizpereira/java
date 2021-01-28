@@ -1,2 +1,2 @@
-# java-training
- usando laços de repetições 
+# Java 
+## Funçôes e exemplos 
