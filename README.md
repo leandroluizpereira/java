@@ -4,9 +4,9 @@
 
 ## Modificadores de acesso
 
-private = só a classe designado pode alterar.
-public = qualquer classe pode alterar, independente do pacote que esteje, interno ou externo.
-protected = so as classes que estão no pacote pode alterar. 
+<strong>private =</strong> só a classe designado pode alterar. <br>
+<strong>public = qualquer</strong> classe pode alterar, independente do pacote que esteje, interno ou externo. <br>
+<strong>protected =</strong> so as classes que estão no pacote pode alterar. 
 
 ## Polimorfismo 
 sobrecarga de método , métodos com mesmo nome .
