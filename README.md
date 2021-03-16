@@ -1,6 +1,6 @@
 # Anotaçôes sobre a linguagem Java 
 
-# Orientaçâo ao objeto
+# Orientaçâo a objeto
 
 ## Modificadores de acesso
 
