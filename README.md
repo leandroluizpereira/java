@@ -23,7 +23,7 @@ Métodos getter e setters , reforçando a proteçâo das variáveis.
 
 
 ## Override 
-sobrepor o método de outra classe 
+sobrepoe o método de outra classe 
 
 ```java 
 @ override 
