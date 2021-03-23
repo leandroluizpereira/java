@@ -16,7 +16,7 @@ sobrecarga de método , métodos com mesmo nome .
 
 ```
 ## Encapsulamento 
-Métodos getter e setters , reforçando a proteçâo das variáveis.
+Métodos getter e setters , reforça a proteçâo das variáveis.
 
 
 ## herança 
