@@ -5,6 +5,7 @@
 --%>
 
 <%@page import="br.leandro.pojo.Pessoa"%>
+<%@page import="br.leandro.pojo.principal"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -16,16 +17,14 @@
         <h1>Minha primeira página web.Que top!</h1>
         <hr>
         <%
-            Pessoa p = new Pessoa();
-            p.setNome("Leandro luiz pereira ");
-            p.setIdade(33);
-            p.setFumante(false);
+             String nome ="leandro luiz pereira ";
+             int idade =33;
      
             %>
             
             <h2> Dados informados: </h2>
-            <strong>Nome:<%= p.getNome() %></strong>
-            <strong>Idade: <%= p.getIdade() %> </strong> <br>
+            <strong>Nome:<%= nome %></strong>
+            <strong>Idade: <%=idade %> </strong> <br>
 
             <hr>
               
