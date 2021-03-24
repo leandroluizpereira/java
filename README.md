@@ -16,10 +16,28 @@ sobrecarga de método , métodos com mesmo nome .
 
 ```
 ## Encapsulamento 
-Métodos getter e setters , reforçando a proteçâo das variáveis.
+Métodos getter e setters , reforça a proteçâo das variáveis.
 
 
 ## herança 
+
+
+## Override 
+sobrepoe o método de outra classe 
+
+```java 
+@ override 
+public String toString(){
+  String cursoToString = "Curso:"+nomeCurso + "\nCarga Horária:" + getCargaHoraria()
+ + "\nDisciplinas:";
+for(Disciplinas disc :disciplinas){
+    cursoToString +="\t - "+ disc.getNome() +"
+
+
+
+
+```
+
 
 
 
