@@ -28,7 +28,7 @@
             <h2> Dados informados: </h2>
             <strong>Nome:<%=nome%></strong>
             <strong>Idade: <%=idade%> </strong> <br>
-            <div style="background-color: red;color: white;width: 300px;height: 300px;> 
+            <div style="background-color: red;color: white;width: 300px;height: 300px;"> 
                 <h3><%=text%></h3>          
             
             </div>

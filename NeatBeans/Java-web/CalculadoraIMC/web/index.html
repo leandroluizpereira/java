@@ -7,6 +7,20 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div>TODO write content</div>
+        <h1>Calculadora IMC</h1>
+        <hr>
+    <!-- post = a  enviar-->
+    <!-- get = pegar iinformações -->
+    <form method="post" action="imc.jsp">
+        <span>Informe o peso</span>
+        <input type="number" name="peso" placeholder="Peso">
+        <br>
+        <span>Informe a altura: </span>
+        <input type="number" name="altura" placeholder="Altura" step="0.01">
+        
+        <br>
+        <input type="submit" value="Calcular">
+    </form>
+       
     </body>
 </html>
