@@ -5,6 +5,14 @@
 * [Sobre a linguagem java](#java)
 * [Declaraçâo de variável](#variavel)
 * [Interpolaçâo de variável](#interpolacao)
+:star::star:Intermediário
+* Orientaçâo a objeto
+ * Modificadores de acesso
+ * Polimorfismo
+ * Encapsulamento
+ * Herança 
+ * Override
+Extras:
 * [Programas](#programas)
   * [Neat beans - java web](#)
 
