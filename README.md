@@ -26,10 +26,20 @@ int number = 30;
 float dolar = 350;
 double real =  123230.43;
 boolean on = true;
-
 ```
+<div id="interpolacao">
+ 
+# Interpolaçâo de variável
  
 <div id="variavel">
+ 
+```java 
+String name = "Leandro Luiz Pereira";
+int number = 38;
+boolean on = true;
+
+System.out.println("O meu nome é "+name+" e tenho "+number+" livros "\n está afirmaação é +on);
+```
 
 # Orientaçâo a objeto
 
