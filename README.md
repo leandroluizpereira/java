@@ -1,5 +1,16 @@
 # :books: Anotaçôes sobre a linguagem Java 
 
+## Tópicos 
+:star: básico
+* [Sobre a linguagem java](#java)
+* [Declaraçâo de variável](#variavel)
+* [Interpolaçâo de variável](#variavel)
+
+
+<div id="java">
+ 
+<div id="variavel">
+
 # Orientaçâo a objeto
 
 ## Modificadores de acesso
