@@ -12,7 +12,7 @@
   * Encapsulamento
   * Herança 
   * Override
-Extras:
+* Extras:
 * [Programas](#programas)
   * [Neat beans - java web](#)
 
