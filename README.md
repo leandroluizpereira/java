@@ -1,11 +1,11 @@
 # :books: Anotaçôes sobre a linguagem Java 
 
 ## Tópicos 
-:star: básico
+* :star: básico
 * [Sobre a linguagem java](#java)
 * [Declaraçâo de variável](#variavel)
 * [Interpolaçâo de variável](#interpolacao)
-:star::star:Intermediário
+* :star::star:Intermediário
 * [Orientaçâo a objeto](#objeto)
   * Modificadores de acesso
   * Polimorfismo
