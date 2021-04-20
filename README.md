@@ -4,7 +4,7 @@
 :star: básico
 * [Sobre a linguagem java](#java)
 * [Declaraçâo de variável](#variavel)
-* [Interpolaçâo de variável](#variavel)
+* [Interpolaçâo de variável](#interpolacao)
 * [Programas](#programas)
   * [Neat beans - java web](#)
 
@@ -16,8 +16,18 @@
  
  <p>ava é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems. Em 2008 o Java foi adquirido pela empresa Oracle Corporation. Diferente das linguagens de programação modernas, que são compiladas para código nativo, a linguagem Java é compilada para um bytecode que é interpretado por uma máquina virtual (Java Virtual Machine, mais conhecida pela sua abreviação JVM). A linguagem de programação Java é a linguagem convencional da Plataforma Java, mas não é a sua única linguagem. J2ME Para programas e jogos de computador, celular, calculadoras, ou até mesmo o rádio do carro. </p>
  
+<div id="variavel">
  
+# Declaração de variável 
 
+```java 
+String name = "Leandro Luiz Pereira";
+int number = 30;
+float dolar = 350;
+double real =  123230.43;
+boolean on = true;
+
+```
  
 <div id="variavel">
 
