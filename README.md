@@ -26,6 +26,8 @@
  
 <div id="variavel">
  
+# :star: Básico
+ 
 # Declaração de variável 
 
 ```java 
