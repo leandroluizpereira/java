@@ -69,10 +69,13 @@ public static void main(String[] args){
 int n = 30;
 int n2 = 45;
 int n3 = 60;
-int mult,soma,div; 
+int mult,soma,div,subtracao; 
 
 soma = n + n2 + n3;
 System.out.println(soma);
+
+subtracao = n - n2 - n3;
+System.out.println(subtracao);
 
 mult = n* n2 *n3;
 System.out.println(mult);
