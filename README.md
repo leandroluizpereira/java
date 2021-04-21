@@ -80,7 +80,50 @@ public class HelloWorld
 }
   
 ```
+ <div id="log">
  
+## Operadores Lógicos
+
+```java
+public class HelloWorld
+{
+  // arguments are passed using the text field below this editor
+  public static void main(String[] args)
+  {
+
+    int n = 30;
+    int n2 = 56;
+    int n3 = 66;
+    
+    if (n > 30 && n2 <34){
+      System.out.println("Verdadeiro");
+  
+  }
+    else{
+  
+     System.out.println("Falso");
+    }
+    if (n > 30 || n3 >34){
+      System.out.println("Verdadeiro");
+  
+  }
+    else{
+       System.out.println("Falso");
+    }
+       if (n > 30 == n2 <34){
+      System.out.println("Verdadeiro");
+  
+  }
+    else{
+       System.out.println("Falso");
+    }
+}
+}
+
+
+
+```
+
 <div id="objeto">
  
  # :star::star: Intermediário
