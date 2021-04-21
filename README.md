@@ -96,7 +96,8 @@ for(Disciplinas disc :disciplinas){
 | <div align=center> Software |  <div align=center>Site |  <div align=center>Autor|   <div align=center>   Classificaçâo            |
 |--|--|--|--|
 | <div align=center>NeatBeans |<div align=center>:x:|<div align=center> Apache Software Foundation| <div align=center>:star::star::star::star::star:|
-|  |  |  | <div align=center>:star::star::star:   
+|<div align=center> Android  Studio  |<div align=center>:x:  |<div align=center> Google  | <div align=center>:star::star::star::star::star: | 
+ |  |  |  | <div align=center>:star::star::star: | 
 
 
 
