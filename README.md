@@ -32,12 +32,16 @@
  
 ## Declaração de variável 
 
-```java 
+```java
+public class OlaMundo{
+public static void main(String[] args){
 String name = "Leandro Luiz Pereira";
 int number = 30;
 float dolar = 350;
 double real =  123230.43;
 boolean on = true;
+}
+}
 ```
 <div id="interpolacao">
  
@@ -46,81 +50,72 @@ boolean on = true;
 <div id="variavel">
  
 ```java 
+public class OlaMundo{
+public static void main(String[] args){
 String name = "Leandro Luiz Pereira";
 int number = 38;
 boolean on = true;
-
 System.out.println("O meu nome é "+name+" e tenho "+number+" livros "\n está afirmaação é +on);
+}
+}
 ```
 <div id="ari">
  
 ## Operadores Aritiméticos
 
  ```java 
-public class HelloWorld
-{
-  public static void main(String[] args)
-  {
-    int n = 30;
-  int n2 = 45;
-  int n3 = 60;
-  int mult,soma,div;
+public class HelloWorld{
+public static void main(String[] args){
+int n = 30;
+int n2 = 45;
+int n3 = 60;
+int mult,soma,div; 
+
+soma = n + n2 + n3;
+System.out.println(soma);
+
+mult = n* n2 *n3;
+System.out.println(mult);
   
-  soma = n + n2 + n3;
-  System.out.println(soma);
-  
-  mult = n* n2 *n3;
-  System.out.println(mult);
-  
-  div = (n+n2) /n3;
-  System.out.println(div);
-  
-  
-  }
+div = (n+n2) /n3;
+System.out.println(div);
+ }
 }
-  
 ```
  <div id="log">
  
 ## Operadores Lógicos
 
 ```java
-public class HelloWorld
-{
-  // arguments are passed using the text field below this editor
-  public static void main(String[] args)
-  {
-
-    int n = 30;
-    int n2 = 56;
-    int n3 = 66;
+public class HelloWorld{
+public static void main(String[] args){
+int n = 30;
+int n2 = 56;
+int n3 = 66;
     
-    if (n > 30 && n2 <34){
-      System.out.println("Verdadeiro");
-  
-  }
-    else{
-  
-     System.out.println("Falso");
-    }
-    if (n > 30 || n3 >34){
-      System.out.println("Verdadeiro");
-  
-  }
-    else{
-       System.out.println("Falso");
-    }
-       if (n > 30 == n2 <34){
-      System.out.println("Verdadeiro");
-  
-  }
-    else{
-       System.out.println("Falso");
-    }
+if (n > 30 && n2 <34){
+System.out.println("Verdadeiro");
 }
+else{
+System.out.println("Falso");
 }
 
+if (n > 30 || n3 >34){
+System.out.println("Verdadeiro");
+}
+else{
+System.out.println("Falso");
+}
 
+if (n > 30 == n2 <34){
+System.out.println("Verdadeiro");
+}    
+else{
+System.out.println("Falso");
+}
+
+}
+}
 
 ```
 
@@ -154,16 +149,16 @@ Métodos getter e setters , reforça a proteçâo das variáveis.
 sobrepoe o método de outra classe 
 
 ```java 
+public class OlaMundo{
+public static void main(String[] args){
 @ override 
 public String toString(){
   String cursoToString = "Curso:"+nomeCurso + "\nCarga Horária:" + getCargaHoraria()
  + "\nDisciplinas:";
 for(Disciplinas disc :disciplinas){
     cursoToString +="\t - "+ disc.getNome() +"
-
-
-
-
+}
+}
 ```
 <div id="programas">
  
