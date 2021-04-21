@@ -5,6 +5,8 @@
 * [Sobre a linguagem java](#java)
 * [Declaraçâo de variável](#variavel)
 * [Interpolaçâo de variável](#interpolacao)
+* [Operadores Aritimético](#ari)
+* [Operadores Lógicos](#log)
 * :star::star:Intermediário
 * [Orientaçâo a objeto](#objeto)
   * Modificadores de acesso
@@ -50,6 +52,35 @@ boolean on = true;
 
 System.out.println("O meu nome é "+name+" e tenho "+number+" livros "\n está afirmaação é +on);
 ```
+<div id="ari">
+ 
+## Operadores Aritiméticos
+
+ ```java 
+public class HelloWorld
+{
+  public static void main(String[] args)
+  {
+    int n = 30;
+  int n2 = 45;
+  int n3 = 60;
+  int mult,soma,div;
+  
+  soma = n + n2 + n3;
+  System.out.println(soma);
+  
+  mult = n* n2 *n3;
+  System.out.println(mult);
+  
+  div = (n+n2) /n3;
+  System.out.println(div);
+  
+  
+  }
+}
+  
+```
+ 
 <div id="objeto">
  
  # :star::star: Intermediário
