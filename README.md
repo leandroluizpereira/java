@@ -129,6 +129,19 @@ System.out.println("Falso");
  
  ## Funçâo de entrada
  
+ Estanciando objeto Scanner para leitura 
+ 
+ ```java
+ Scanner ler = new Scanner(System.in)
+ ```
+ métodos do Scanner :
+ 
+ * número inteiro = nextInt()
+ * String = nextLine();
+ * Float = nextFloat();
+ * double = nextDouble();
+ 
+ exemplo de tabuada com Scanner de entrada.
  ```java 
 import java.util.Scanner;
 public class FuncaoEntrada {
