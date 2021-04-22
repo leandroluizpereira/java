@@ -132,6 +132,9 @@ System.out.println("Falso");
  public class OlaMundo{
  public static void main (String [] args){
  
+ int n=30;
+ int n2=43;
+ 
  System.out.println("Estrutura if :\n");
  
  if (n > n2){
