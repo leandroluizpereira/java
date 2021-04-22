@@ -8,7 +8,7 @@
 * [Operadores Aritimético](#ari)
 * [Operadores Lógicos](#log)
 * [Estrutura condicional -if](#if)
-* [Estrutura for](#for)
+* [Estrutura de repetiçâo - for](#for)
 * :star::star:Intermediário
 * [Orientaçâo a objeto](#objeto)
   * Modificadores de acesso
