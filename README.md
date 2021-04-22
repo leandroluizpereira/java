@@ -7,6 +7,8 @@
 * [Interpolaçâo de variável](#interpolacao)
 * [Operadores Aritimético](#ari)
 * [Operadores Lógicos](#log)
+* [Estrutura condicional -if](#if)
+* [Estrutura for](#for)
 * :star::star:Intermediário
 * [Orientaçâo a objeto](#objeto)
   * Modificadores de acesso
@@ -122,6 +124,38 @@ System.out.println("Falso");
 
 ```
 
+ <div id="if">
+ 
+ ## Estrutura condicional - if 
+ 
+ ```java 
+ public class OlaMundo{
+ public static void main (String [] args){
+ 
+ System.out.println("Estrutura if :\n");
+ 
+ if (n > n2){
+   System.out.println("verdadeiro");
+ }
+ else{
+   System.out.println("Falso");
+ } 
+ }
+ }
+ ```
+ <div id="log">
+ 
+ ## Estrutura de repetiçâo - for 
+ 
+ ```java
+ public class OlaMundo{
+public static void main(String [] args){
+ for(i=0;i<11;i++){
+ System.out.println(i);
+}
+}
+ ```
+ 
 <div id="objeto">
  
  # :star::star: Intermediário
