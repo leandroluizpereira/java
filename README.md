@@ -129,7 +129,7 @@ System.out.println("Falso");
  
  ## Funçâo de entrada
  
- Estanciando objeto Scanner para leitura 
+ Estanciando a classe Scanner para leitura 
  
  ```java
  Scanner ler = new Scanner(System.in)
