@@ -7,6 +7,7 @@
 * [Interpolaçâo de variável](#interpolacao)
 * [Operadores Aritimético](#ari)
 * [Operadores Lógicos](#log)
+* [Funçâo de entrada](#entrada)
 * [Estrutura condicional -if](#if)
 * [Estrutura de repetiçâo - for](#for)
 * :star::star:Intermediário
@@ -123,6 +124,27 @@ System.out.println("Falso");
 }
 
 ```
+
+ <div id="entrada">
+ 
+ ## Funçâo de entrada
+ 
+ ```java 
+import java.util.Scanner;
+public class FuncaoEntrada {
+    public static void main(String[] args) {     
+        Scanner ler = new Scanner(System.in);      
+        System.out.println("Digite um número");
+        int n = ler.nextInt();
+        for(int i=0;i<11;i++){
+        int mult = n*i;     
+            System.out.println(" "+n+" X "+i+" "+mult);      
+    }  
+    }
+}
+
+ 
+ ```
 
  <div id="if">
  
