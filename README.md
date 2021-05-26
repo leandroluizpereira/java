@@ -43,6 +43,8 @@ int number = 30;
 float dolar = 350;
 double real =  123230.43;
 boolean on = true;
+final String cidade = "São Paulo";
+//variavél final não pode ser alterado
 }
 }
 ```
