@@ -258,7 +258,7 @@ Para preparar o ambiente de desenvolvimento, recomenda-se seguir cuidadosamente 
 <p> Verificar se você possui o JRE instalado em sua máquina
 Abrir o terminal e digitar "java -version"
 Não pode dar erro (tipo, comando não reconhecido)
-Se der algum erro, baixar e instalar o java NESTE SITE  </p>
+Se der algum erro, baixar e instalar o java </p> [NESTE SITE](https://www.java.com/pt-BR/)
 
 <p>
 Baixar e instalar o Netbeans 8.2, com JDK
