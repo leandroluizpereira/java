@@ -137,6 +137,14 @@ System.out.println("Falso");
  Estanciando a classe Scanner para leitura 
  
  ```java
+//Para instaciar os objetos de leitura  primeiro temos
+ que fazer A Importação da biblioteca de entrada 
+da classe Scanner 
+
+import java.util.Scanner;
+
+// Criando e Instanciando o objeto ler da Classe Scanner
+
  Scanner ler = new Scanner(System.in)
  ```
  métodos do Scanner :
